@@ -34,7 +34,7 @@ Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/
 <div>
 
 [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://www.instagram.com/rnfm10/?hl=id)
-[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/rnfm10)
+[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/RijlanM!0)
 
 </div>
 <br>
